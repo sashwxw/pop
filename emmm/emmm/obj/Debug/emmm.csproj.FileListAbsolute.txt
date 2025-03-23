@@ -1,0 +1,7 @@
+D:\POP\emmm\emmm\bin\Debug\emmm.exe.config
+D:\POP\emmm\emmm\bin\Debug\emmm.exe
+D:\POP\emmm\emmm\bin\Debug\emmm.pdb
+D:\POP\emmm\emmm\obj\Debug\emmm.csproj.AssemblyReference.cache
+D:\POP\emmm\emmm\obj\Debug\emmm.csproj.CoreCompileInputs.cache
+D:\POP\emmm\emmm\obj\Debug\emmm.exe
+D:\POP\emmm\emmm\obj\Debug\emmm.pdb
